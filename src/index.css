@@ -1,0 +1,25 @@
+:root{
+  --primary:#dbdbdb;
+  --light:white;
+  --secondary:#a8b1b6;
+  --dark:black;
+}
+
+body {
+  margin: 0;
+  height: 80vh;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #514f54; 
+  /* background: linear-gradient(to left, #817b50, #504f53);  */
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
